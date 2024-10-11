@@ -1,5 +1,5 @@
 # Analytical-DashBoard-PowerBi
-This Repository shows differents Dashbords, 
+This Repository shows differents Dashboards built for facilitate daily analysis and decision making in LA PASTA SA CAMEROUN which in a manufacturing industry, 
 A logistics dashboard for daily analysis should focus on the following key elements:
 - Shipment Status: Real-time tracking of shipments, showing in-transit, delivered, delayed, or pending shipments.
 - Delivery Performance: Metrics like on-time delivery rate, average delivery time, and percentage of delayed deliveries.
